@@ -2,9 +2,9 @@
 
 ## I'm a Software Eng. !!
 
-- 🔭 I’m currently working on full stack development with PHP (MVC), ASP.NET (MVC), Node.js (Express + Angular)
+- 🔭 I’m currently working on full stack development with PHP (MVC) Laravel & Codeigniter, ASP.NET (MVC), Node.js (Express + Angular + React)
 - 🌱 I’m currently learning ML algorithms.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read books.
 
 ### Contact with me:
