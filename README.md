@@ -1,18 +1,33 @@
-### Hi there, I'm Omar 👋
+<div align="center">
+<h1>Who I am</h1>
+Hi there I'm Omar👋
+I am a passionate software developer and studying Software Engineering at Celal Bayar University. 
+<br>
+- 🔭 I’m currently working on full stack development with PHP (MVC) Laravel & Codeigniter, ASP.NET (MVC), Node.js (Express + Angular + React)<br>
+- 🌱 I’m currently learning ML algorithms.<br>
+- 🥅 2022 Goals: Contribute more to Open Source projects.<br>
+- ⚡ Fun fact: I love to read books.<br>
 
-## I'm a Software Eng. !!
+<h1>Contact</h1>
 
-- 🔭 I’m currently working on full stack development with PHP (MVC) Laravel & Codeigniter, ASP.NET (MVC), Node.js (Express + Angular + React)
-- 🌱 I’m currently learning ML algorithms.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to read books.
 
-### Contact with me:
-
-[<img align="left" alt="Mahmud ELSEYYİDÖMER | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mahmud ELSEYYİDÖMER | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<a href="https://www.linkedin.com/in/mahmud-elseyyid%C3%B6mer-65b99a214/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
+<a href="mailto:mhmoud.omar3@gmail.com">
+<img title="Email" 
+src="https://img.shields.io/badge/-mhmoud.omar3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhmoud.omar3@gmail.com">
+</a>
+<a href="https://www.instagram.com/omar_elseyyid/">
+<img title="Instagram" 
+src="https://img.shields.io/badge/-omar_elseyyid-c14438?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<h1>Status</h1>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarElseyyid&&show_icons=true&theme=dark&line_height=27&v=5" alt="OmarElseyyid's GitHub Stats" /><br>
+ </p>
+ <p align="center">
+ <a href="https://github.com/OmarElseyyid"><img title="OmarElseyyid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElseyyid&layout=compact&theme=dark"></a><br>
+</p>
+  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OmarElseyyid&theme=xcode" /></div>
 
 ### Languages and Tools:
 
@@ -36,9 +51,6 @@
 <br />
 <br />
 
----
-[instagram]: https://www.instagram.com/omar_elseyyid/
-[linkedin]: https://www.linkedin.com/in/mahmud-elseyyid%C3%B6mer-65b99a214/
 
 
 
