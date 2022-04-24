@@ -4,7 +4,7 @@ Hi there I'm Omar👋
 I am a passionate software developer and studying Software Engineering at Celal Bayar University. 
 <br>
 - 🔭 I’m currently working on full stack development with PHP (MVC) Laravel & Codeigniter, ASP.NET (MVC), Node.js (Express + Angular + React)<br>
-- 🌱 I’m currently learning ML algorithms.<br>
+- 🌱 I’m currently learning Machine Learning & Deep Learning algorithms.<br>
 - 🥅 2022 Goals: Contribute more to Open Source projects.<br>
 - ⚡ Fun fact: I love to read books.<br>
 
