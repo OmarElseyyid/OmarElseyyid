@@ -1,70 +1,93 @@
-<div align="center">
-<h1>Who I am</h1>
-Hi there I'm Omar👋
-I am a passionate software developer and studying Software Engineering at Celal Bayar University. 
-<br>
-- 🔭 I’m currently working on full stack development with PHP (MVC) Laravel & Codeigniter, ASP.NET (MVC), Node.js (Express + Angular + React)<br>
-- 🌱 I’m currently learning Machine Learning & Deep Learning algorithms.<br>
-- 🥅 2022 Goals: Contribute more to Open Source projects.<br>
-- ⚡ Fun fact: I love to read books.<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mahmud Elseyyidomer</h1></summary>
+  </ul>
+</div>
 
-<h1>Contact</h1>
+<!--Intro start-->
 
+- 🔭 I’m currently working on **Laravel, MySQL, Flutter, DevOps**
 
-<a href="https://www.linkedin.com/in/mahmud-elseyyid%C3%B6mer-65b99a214/"><img title="Linkedin" src="https://img.shields.io/badge/-Linkedin-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cihat-%C5%9Fenel-a9231b6b/"></a>
-<a href="mailto:mhmoud.omar3@gmail.com">
-<img title="Email" 
-src="https://img.shields.io/badge/-mhmoud.omar3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhmoud.omar3@gmail.com">
-</a>
-<a href="https://www.instagram.com/omar_elseyyid/">
-<img title="Instagram" 
-src="https://img.shields.io/badge/-omar_elseyyid-c14438?style=flat-square&logo=instagram&logoColor=white">
-</a>
-<h1>Status</h1>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarElseyyid&&show_icons=true&theme=dark&line_height=27&v=5" alt="OmarElseyyid's GitHub Stats" /><br>
- </p>
- <p align="center">
- <a href="https://github.com/OmarElseyyid"><img title="OmarElseyyid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElseyyid&layout=compact&theme=dark"></a><br>
+- 🌱 I’m currently learning **Data Science & Machine Learning.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 📫 Feel free to reach me out **mhmoud.omar3@gmail.com**
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OmarElseyyid&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <br></br>
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarElseyyid&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true"/>
+    </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=OmarElseyyid&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+</p>        
+<!--- stats (end) -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
 </p>
-  <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=OmarElseyyid&theme=xcode" /></div>
 
-### Languages and Tools:
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/mahmud-elseyyidomer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/omar_elseyyid/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://mahmud.elseyyid.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  
+</p>
 
-<br />
-<br />
+<!--profile visit count-->
+<div align="center">
 
+[![](https://visitcount.itsvg.in/api?id=OmarElseyyid&icon=3&color=6)](https://visitcount.itsvg.in)
 
+</div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**OmarElseyyid/OmarElseyyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Credit: [OmarElseyyid](https://github.com/OmarElseyyid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last Edited on: 1/10/2023
