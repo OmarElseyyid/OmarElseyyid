@@ -3,8 +3,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mahmud Elseyyidomer</h1></summary>
   </ul>
 </div>
-
-<img align="center"  width="300" src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
+<div width="100%" align="center">
+<img align="center"  src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
+</div>
  <hr></hr>
 <div align="center">
   <div>
