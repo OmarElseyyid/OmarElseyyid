@@ -9,7 +9,7 @@
  <hr></hr>
 <div align="center">
   <div>
-    I'm a Full Stak Software Engineer & Blockchain Developer working at <a href="https://liquid-themes.com">Liquid Themes Company</a>.
+    I'm a Full Stack Software Engineer & Blockchain Developer working at <a href="https://liquid-themes.com">Liquid Themes Company</a>.
   </div>
 </div>
 <div align="center">
