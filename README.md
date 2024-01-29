@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-<img width="300" src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
+<img align="center"  width="300" src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
  <hr></hr>
 <div style="text-align: center">
   <div>
@@ -32,14 +32,7 @@ Or follow & connect with me on my Socials:
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=OmarElseyyid&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
-  <br></br>
-  
-</td>
-
-<td width="50%" align="center">
+<td width="100%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarElseyyid&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true"/>
     </td>
