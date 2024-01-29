@@ -20,12 +20,13 @@
   href="https://www.buymeacoffee.com/elseyyid">
 <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codewithahsan&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
 </a>
-
+<div align="center">
 Or follow & connect with me on my Socials:
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/OmarElseyyid)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-elseyyidomer)
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omar_elseyyid)
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
