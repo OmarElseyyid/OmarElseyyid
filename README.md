@@ -12,7 +12,7 @@
     I'm a Full Stak Software Engineer & Blockchain Developer working at <a href="https://liquid-themes.com">Liquid Themes Company</a>.
   </div>
 </div>
-
+<p align="center">
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
 <a
@@ -29,6 +29,7 @@ Or follow & connect with me on my Socials:
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmud-elseyyidomer)
 [![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omar_elseyyid)
  <hr></hr>
+ </p>   
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
