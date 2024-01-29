@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-<img width="400" src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
+<img width="700" src="https://media.licdn.com/dms/image/D4D03AQGW-LoELNysGA/profile-displayphoto-shrink_800_800/0/1705437289164?e=1712188800&v=beta&t=fnryMh7XoITQVBB_AsOXKkehhL35bJUmsHYA6OsI5Ow"/>
  <hr></hr>
 <div style="text-align: center">
   <div>
